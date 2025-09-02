@@ -1,0 +1,8 @@
+#spring.data.mongodb.host=localhost
+#spring.data.mongodb.port=27017
+spring.data.mongodb.uri=mongodb+srv://abbasith93:n7zyCrITvcg6o6cvapplication.properties@cluster0.gjqxhnh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+spring.data.mongodb.database=journaldb
+spring.data.mongodb.auto-index-creation=true
+#spring.data.mongodb.usenaem=myusername
+#spring.data.mongodb.password=mypassword
+server.port=8080
